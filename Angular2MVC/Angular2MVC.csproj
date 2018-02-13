@@ -163,6 +163,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\BaseAPIController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\UserAPIController.cs" />
     <Compile Include="DBContext\TblUser.cs">
       <DependentUpon>UserDBEntities.tt</DependentUpon>
     </Compile>
